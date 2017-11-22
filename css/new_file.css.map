@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI,GACA,UAAU,EAAE,IAAI;;AAEpB,IAAI,GACA,UAAU,EAAE,IAAI;;AAEpB,IAAI,GACA,UAAU,EAAE,IAAI;;AAEpB,IAAI,GACA,UAAU,EAAE,IAAI;;AAEpB,IAAI,GACA,UAAU,EAAE,IAAI;;AAEpB,IAAI,GACA,UAAU,EAAE,IAAI",
+"sources": ["new_file.scss"],
+"names": [],
+"file": "new_file.css"
+}
